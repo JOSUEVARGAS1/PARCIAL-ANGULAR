@@ -1,0 +1,58 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+h1{
+  text-align: center;
+}
+#padre{
+  margin: auto;
+  border: 2px black solid;
+  height: 550px;
+  width: 665px;
+
+}
+.panel1{
+  margin-top :5px;
+  margin-left: 10px;
+  background-color: red ;
+  height: 300px;
+  width: 210px
+}
+.panel2{
+  float: right;
+  margin-right: 11px;
+  margin-top :5px;
+  margin-left: 10px;
+  background-color: blueviolet;
+  height: 230px;
+  width: 220px;
+}
+
+
+.panel3{
+  position: relative;
+  left: 225px;
+  bottom: 300px;
+  background-color: blue ;
+  height: 300px;
+  width: 200px;
+
+}
+.panel4{
+  margin-top :5px;
+  margin-left: 10px;
+  background-color: green;
+  height: 230px;
+  width: 415px;
+  position: relative;
+  bottom: 300px;
+}
+.panel5{
+  position: relative;
+  left: 432px;
+  bottom: 835px;
+  background-color:yellow ;
+  height: 300px;
+  width: 220px;
+}
